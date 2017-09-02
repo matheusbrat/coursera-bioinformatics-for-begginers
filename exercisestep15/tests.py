@@ -1,5 +1,5 @@
 import pytest
-from challenge1.helpers import pattern_count
+from exercisestep15.helpers import pattern_count
 
 
 @pytest.mark.parametrize('text,pattern,output', (('GCGCG', 'GCG', 2),
