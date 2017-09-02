@@ -1,0 +1,3 @@
+However, before concluding that we have found the DnaA box of Vibrio cholerae, the careful bioinformatician should check if there are other short regions in the Vibrio cholerae genome with multiple occurrences of "ATGATCAAG" (or "CTTGATCAT"). After all, maybe these strings occur as repeats throughout the entire Vibrio cholerae genome, rather than just in the ori region. This discussion implies the following computational problem.
+
+https://stepik.org/lesson/23144/step/7?course=Where-in-the-Genome-Does-Replication-Begin-(Part-1)&unit=6785
