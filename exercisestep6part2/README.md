@@ -1,0 +1,4 @@
+Now that you know how to work with dictionaries, we can write a Python function that takes a string Text and an integer k as input and returns the Count dictionary for k-mers in Text. The code below uses the notation Count = {} to initialize a blank dictionary containing no items. It also uses PatternCount as a subroutine, or a function that is called within another function. Subroutines are vital to programming because they allow us to reuse code without needing to copy it multiple times.
+
+
+https://stepik.org/lesson/23217/step/6?course=Where-in-the-Genome-Does-Replication-Begin-(Part-1)&unit=6784
