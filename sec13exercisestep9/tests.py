@@ -1,6 +1,6 @@
 import pytest
 
-from exercisestep9part2.helpers import frequent_words
+from sec13exercisestep9.helpers import frequent_words
 
 
 @pytest.mark.parametrize('n, input, output', ((4, 'ACGTTGCATGTCGCATGATGCATGAGAGCT', ['GCAT', 'CATG', 'GCAT', 'CATG', 'GCAT', 'CATG']),

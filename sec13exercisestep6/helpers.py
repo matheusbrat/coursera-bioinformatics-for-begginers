@@ -1,4 +1,4 @@
-from exercisestep15.helpers import pattern_count
+from sec12exercisestep15.helpers import pattern_count
 
 
 def count_dict(text, k):

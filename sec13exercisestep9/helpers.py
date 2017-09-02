@@ -1,4 +1,4 @@
-from exercisestep6part2.helpers import count_dict
+from sec13exercisestep6.helpers import count_dict
 
 
 def frequent_words(text, k):

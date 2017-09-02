@@ -1,6 +1,6 @@
 import pytest
 
-from exercisestep6part2.helpers import count_dict
+from sec13exercisestep6.helpers import count_dict
 
 
 @pytest.mark.parametrize('n, input, output', ((3, 'CGATATATCCATAG', {0: 1, 1: 1, 2: 3, 3: 2, 4: 3, 5: 2, 6: 1, 7: 1, 8: 1, 9: 1, 10: 3, 11: 1}),
