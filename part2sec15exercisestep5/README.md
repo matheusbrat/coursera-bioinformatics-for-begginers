@@ -1,0 +1,3 @@
+Our goal now is to modify our previous algorithm for the Frequent Words Problem in order to find DnaA boxes by identifying frequent k-mers, possibly with mismatches. Given input strings Text and Pattern as well as an integer d, we extend the definition of PatternCount to the function ApproximatePatternCount(Pattern, Text, d). This function computes the number of occurrences of Pattern in Text with at most d mismatches. For example,
+
+https://stepik.org/lesson/23061/step/5?course=Where-in-the-Genome-Does-DNA-Replication-Begin-(Part-2)&unit=6793
