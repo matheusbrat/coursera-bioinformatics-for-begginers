@@ -1,0 +1,3 @@
+We will keep track of the difference between the total number of occurrences of G and the total number of occurrences of C that we have encountered so far in Genome by using a skew array. This array, denoted Skew, is defined by setting Skew[i] equal to the number of occurrences of G minus the number of occurrences of C in the first i nucleotides of Genome (see figure below). We also set Skew[0] equal to zero.
+
+https://stepik.org/lesson/23060/step/3?course=Where-in-the-Genome-Does-DNA-Replication-Begin-(Part-2)&unit=6792
