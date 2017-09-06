@@ -1,0 +1,3 @@
+We say that a k-mer Pattern appears as a substring of Text with at most d mismatches if there is some k-mer substring Pattern' of Text having d or fewer mismatches with Pattern; that is, HammingDistance(Pattern, Pattern') ≤ d. Our observation that a DnaA box may appear with slight variations leads to the following generalization of the Pattern Matching Problem.
+
+https://stepik.org/lesson/23061/step/4?course=Where-in-the-Genome-Does-DNA-Replication-Begin-(Part-2)&unit=6793
