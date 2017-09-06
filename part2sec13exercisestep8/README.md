@@ -1,0 +1,3 @@
+Fortunately, we already know how to count the number of occurrences of C in a window of ExtendedGenome: use the function PatternCount! We can therefore define the following function that takes strings Genome and symbol as input and returns the symbol array of Genome corresponding to symbol.
+
+https://stepik.org/lesson/23059/step/8?course=Where-in-the-Genome-Does-DNA-Replication-Begin-(Part-2)&unit=6791
