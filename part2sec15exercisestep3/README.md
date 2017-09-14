@@ -1,0 +1,3 @@
+We say that position i in k-mers p and q is a mismatch if the symbols at position i of the two strings are not the same. The total number of mismatches between strings p and q is called the Hamming distance between these strings. We will let you implement a function to compute this distance, called HammingDistance(p, q).
+
+https://stepik.org/lesson/23061/step/3?course=Where-in-the-Genome-Does-DNA-Replication-Begin-(Part-2)&unit=6793
