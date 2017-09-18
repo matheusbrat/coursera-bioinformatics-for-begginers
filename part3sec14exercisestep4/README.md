@@ -1,0 +1,3 @@
+To implement a function Pr(Text, Profile), we begin by setting a “probability” variable p equal to 1. We then range through the characters of Text one at a time. At position i of Text, we set p equal to p times the value of Profile corresponding to symbol Text[i] and column i, which is just Profile[Text[i]][i].
+
+https://stepik.org/lesson/23066/step/4?course=Which-DNA-Patterns-Play-The-Role-of-Molecular-Clocks-(Part-1)&unit=6799
