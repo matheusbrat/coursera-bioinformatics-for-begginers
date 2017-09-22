@@ -1,0 +1,3 @@
+Simulating the process of generating a random integer is more difficult than you might think and requires more mathematics than we would like to describe here. Fortunately, since the task of generating random numbers arises in so many applications, Python provides a module called random for generating them. You can think of a module as a “bundle” of related functions. To use the random module, we place the following statement at the top of our file.
+
+https://stepik.org/lesson/23068/step/5?course=Which-DNA-Patterns-Play-The-Role-of-Molecular-Clocks-(Part-2)&unit=6804
