@@ -1,0 +1,3 @@
+Exercise Break (2 points): In practice, we retain the best-scoring set of motifs over many runs of RandomizedMotifSearch. Add an input parameter N representing the number of runs of RandomizedMotifSearch, and then find the best-scoring motifs with k-mer length equal to 15 in the DosR dataset over N runs (click here to download). Don't forget to use pseudocounts!
+
+https://stepik.org/lesson/23068/step/7?course=Which-DNA-Patterns-Play-The-Role-of-Molecular-Clocks-(Part-2)&unit=6804
