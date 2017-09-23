@@ -1,0 +1,3 @@
+To rescale a collection of probabilities (the sides of the die) so that these probabilities sum to 1, we will write a function called Normalize(Probabilities). This function takes a dictionary Probabilities whose keys are k-mers and whose values are the probabilities of these k-mers (which do not necessarily sum to 1). The function should divide each value in Probabilities by the sum of all values in  Probabilities, then return the resulting dictionary.
+
+https://stepik.org/lesson/23070/step/5?course=Which-DNA-Patterns-Play-The-Role-of-Molecular-Clocks-(Part-2)&unit=6806
